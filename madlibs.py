@@ -6,6 +6,6 @@ print(verbs)
 
 #%%
 verbs = ["exclaims", "cross stitches", "eats ham"]
-print("The boy " + random.choice(verbs) + " says Pete the cat")
+print("The boy " + random.choice(verbs) + " says Pete the cat who loves his white shoes")
 
 #%%
