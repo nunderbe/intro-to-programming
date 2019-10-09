@@ -1,0 +1,4 @@
+def(sequence)
+sequence =("hello + "word")
+print(sequence)
+
